@@ -1,0 +1,1 @@
+This project contains a series of requirements analysis deliverables in a scenario where IRCC is looking to develop a new AI powered system called SIAMS (Smart Immigration Assessment and Matching System).
